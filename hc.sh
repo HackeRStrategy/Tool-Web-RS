@@ -83,6 +83,11 @@ echo -e "\e[1;32m ################################170%   \e[0m"
 echo -e "\e[1;32m ##################################180%   \e[0m"
 echo -e "\e[1;32m ####################################190% \e[0m"
 echo -e "\e[1;32m ######################################200%  \e[0m"
+echo "========================================="
+
+figlet HTTP CHECKER1.1
+figlet By: Lalo @drowkid1
+
 apt update
 apt upgrade
 pkg install figlet 
@@ -210,7 +215,7 @@ git clone https://github.com/HackeRStrategy/Real-Scann-DNS.git
 echo
 setterm -foreground green 
 echo
-echo "CONGRULATIONS! AHORA TIENE LAS HERRAMIENTAS INSTALADAS "
+echo "PERFECTO ! HERRAMIENTAS INSTALADAS "
 echo
 setterm -foreground yellow
 echo " HERRAMIENTAS DESCARGADAS"
@@ -247,23 +252,23 @@ echo " Tested On : Windows / Linux / Termux"
 echo
 setterm -foreground green
 echo
-echo "              Real Strategy. " 
+echo "              Lalo @drowkid1. " 
 echo
-figlet -f digital BY: REAL STRATEGY RS
+figlet -f digital BY: Elite Hackers Company RS
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[o] PRIMER PASO\e[0m"
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[!] ESCRIBE LOS COMANDOS 1 & 2\e[0m"
 echo -e "\e[1;32m[1] Escribe: ls\e[0m"
-echo -e "\e[1;32m[2] Escribe: cd Real-Scann-DNS\e[0m"
+echo -e "\e[1;32m[2] Escribe: cd hc.sh\e[0m"
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[o] SEGUNDO PASO\e[0m"
 echo -e "\e[0]\e[0m"
 echo -e "\e[1;33m[!] ESCRIBE LOS COMANDOS 3 & 4\e[0m"
 echo -e "\e[1;32m[3] Escribe: ls\e[0m"
-echo -e "\e[1;32m[4] Escribe: python2 Real-DNS\e[0m"
+echo -e "\e[1;32m[4] Escribe: python2 hc.sh\e[0m"
 setterm -foreground green 
-figlet -f digital REAL STRATEGY DOMINANDO
+figlet -f digital Elite Hackers Company DOMINANDO
 echo -e "\e[1;33m EL CONOCIMIENTO ES LIBRE\e[0m"
 echo
 setterm -foreground green
